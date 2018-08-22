@@ -19,9 +19,9 @@ turtle 모듈을 불러오면 turtle 클래스의 수많은 메서드로 다양�
 
 - 오륜기
 
-![1](python_practice/Document/1.JPG)
+![1](1.JPG)
 
 - 육각형과 사각형을 겹친 모양
 
-![2](python_practice/Document/2.JPG)
+![2](2.JPG)
 
