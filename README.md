@@ -1,2 +1,5 @@
-# python_practice
-Just loads of studying material about Python
+# 파이썬 연습
+
+Python 언어의 문법 및 라이브러리 연습용 저장소
+
+### [Session 1 - Python Turtle Graphics 라이브러리를 이용한 기하학 모형 구현](sess1.md) 
