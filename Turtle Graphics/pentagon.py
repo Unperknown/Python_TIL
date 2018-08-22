@@ -23,5 +23,3 @@ def pentagon(t, n, x, y):
         t.up()
         t.forward(n * 2)
         t.down()
-
-pentagon(t, 100, -100, -100)
